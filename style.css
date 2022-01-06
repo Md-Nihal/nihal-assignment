@@ -109,4 +109,20 @@ span{
 }
 #sector5-2{
     margin-right: 25%;
+    margin-top: 13%;
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#finish{
+    font-weight: 800;
+    font-size: 15px;
+}
+#end{
+    color: yellow;
 }
