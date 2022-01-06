@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.times{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mission22{
+    display: flex;
+}
+.sector1{
+   width: 50%;
+   padding-left: 5%;
+}
+.sector1 img{
+    width: 40%;
+    padding-left: 10%;
+}
