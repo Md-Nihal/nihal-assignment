@@ -31,3 +31,33 @@ span{
 #scroll{
     padding-left: 5%;
 }
+#another-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+.sector2{
+    width: 50%;
+    margin: 5%;
+    padding-left: 3%;
+    border-radius: 50px;
+ }
+ .sector2 img{
+     width: 65%;
+     padding-left: 10%;
+ }
+ #sector2-1{
+     background-color: lightgray;
+     margin: 4%;
+     padding: 5%;
+ }
+ #sector2-2{
+     background-color: lightgreen;
+     margin: 4%;
+     padding: 5%;
+ }
+ #sector2-3{
+     background-color: lightseagreen;
+     margin: 4%;
+     padding: 5%;
+ }
