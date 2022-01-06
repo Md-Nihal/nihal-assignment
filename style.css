@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .times{
     font-size: 50px;
@@ -61,3 +62,51 @@ span{
      margin: 4%;
      padding: 5%;
  }
+ .sector3{
+   width: 50%;
+   margin-left: 5%;
+   margin-top: 5%;
+ }
+ .sector3 img{
+    width: 70%;
+    margin-left: 24%;
+ }
+ #sector3-2{
+     margin-right: 25%;
+ }
+ #sector3-1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+ }
+.sector4{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.sector4 img{
+    width: 55%;
+    margin-right: 24%;
+}
+#sector4-2{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+}
+#another-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+.sector5{
+   width: 50%;
+   margin-left: 5%;
+   margin-top: 2%;
+   
+}
+.sector5 img{
+    width: 70%;
+    margin-left: 32%;
+}
+#sector5-2{
+    margin-right: 25%;
+}
