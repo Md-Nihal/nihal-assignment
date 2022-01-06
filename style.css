@@ -4,6 +4,7 @@ body{
 .times{
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
+    border-left: 10px solid darkorange;
 }
 .mission22{
     display: flex;
@@ -15,4 +16,17 @@ body{
 .sector1 img{
     width: 40%;
     padding-left: 10%;
+}
+a{
+    background-color: brown;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    padding: 4px 6px;
+}
+span{
+    color: darkgreen;
+}
+#scroll{
+    padding-left: 5%;
 }
